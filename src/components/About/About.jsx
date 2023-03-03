@@ -9,7 +9,7 @@ export default function About() {
 			<hr />
 				El principal objetivo detrás de esta aplicación web es poder demostrar mis conocimientos en <strong>FRONTEND</strong> con las ya mencionadas herramientas empleadas.
 			<hr />
-				Muchas Gracias !
+				¡ Muchas Gracias !
 			</p>
 		</div>
 	);
